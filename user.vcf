@@ -12,8 +12,8 @@ item1.X-ABADR:sg
 item2.URL;type=pref:excaliburresume.com
 item2.X-ABLabel:_$!<HomePage>!$_
 item3.URL;type=pref:facebook.com/excaliburresume/?modal=admin_todo_tour
-item3.X-ABLabel:_$!<FacebookPage>!$_
+item3.X-ABLabel:<FacebookPage>
 item4.URL;type=pref:linkedin.com/company/excalibur-resume-culture-service/about/
-item4.X-ABLabel:_$!<LinkedinPage>!$_
+item4.X-ABLabel:<LinkedinPage>
 
 END:VCARD
