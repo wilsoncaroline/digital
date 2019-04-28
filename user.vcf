@@ -11,7 +11,7 @@ TEL;type=WORK;type=VOICE:+1 4163126395
 item2.URL;type=pref:excaliburresume.com
 item2.X-ABLabel:_$!<HomePage>!$_
 item3.URL;type=pref:facebook.com/excaliburresume/?modal=admin_todo_tour
-item3.X-ABLabel:_$!<FaceBook>!$_
+item3.X-ABLabel:_$!<HomePage>!$_
 item4.URL;type=pref:linkedin.com/company/excalibur-resume-culture-service/about/
-item4.X-ABLabel:_$!<Linkedin>!$_
+item4.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
